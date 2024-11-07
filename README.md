@@ -1,4 +1,4 @@
-# Calculadora Binaria
+crisg# Calculadora Binaria
 
 Esta es una aplicación de Android que permite realizar operaciones básicas (suma, resta, multiplicación y división) con números en formato binario. Desarrollada en Android Studio.
 
@@ -29,4 +29,4 @@ Las contribuciones son bienvenidas. Si tienes ideas o mejoras, ¡no dudes en hac
 Este proyecto está bajo la licencia MIT.
 
 ## Autor
-Cristian Castro Gómez
+Cristian Castro Gómez (kencrisg)
