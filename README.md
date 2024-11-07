@@ -27,3 +27,6 @@ Las contribuciones son bienvenidas. Si tienes ideas o mejoras, ¡no dudes en hac
 
 ## Licencia
 Este proyecto está bajo la licencia MIT.
+
+## Autor
+Cristian Castro Gómez
